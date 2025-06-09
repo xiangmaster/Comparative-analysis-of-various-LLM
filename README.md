@@ -116,7 +116,7 @@
 │   ├── Q5.png
 └── Baichuan2-7B-Chat/
     ├── git_clone.png           
-    ├── Baichuan2-7B-Chat.png
+    ├── Baichuan2-7B-chat.png
     ├── Q1.png
     ├── Q2.png
     ├── Q3.png
