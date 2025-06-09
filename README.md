@@ -90,7 +90,7 @@
 
 3. **运行测试**
    ```bash
-   # 执行推理脚本
+   # 编写并执行推理脚本
    jupyter notebook test.ipynb
    ```
 
@@ -98,15 +98,30 @@
 
 ```
 ├── README.md              # 项目说明文档
-├── test.ipynb            # 推理测试脚本
-├── models/               # 模型文件目录
-│   ├── Qwen-7B-Chat/
-│   ├── chatglm3-6b/
-│   └── Baichuan2-7B-Chat/
-└── results/              # 测试结果
-    ├── qwen_results.txt
-    ├── chatglm_results.txt
-    └── baichuan_results.txt
+├── Qwen-7B-Chat/
+│   ├── git_clone.png            
+│   ├── Qwen-7B-Chat.png
+│   ├── Q1.png
+│   ├── Q2.png
+│   ├── Q3.png
+│   ├── Q4.png
+│   ├── Q5.png
+├── chatglm3-6b/
+│   ├── git_clone.png         
+│   ├── chatglm3-6b.png
+│   ├── Q1.png
+│   ├── Q2.png
+│   ├── Q3.png
+│   ├── Q4.png
+│   ├── Q5.png
+└── Baichuan2-7B-Chat/
+    ├── git_clone.png           
+    ├── Baichuan2-7B-Chat.png
+    ├── Q1.png
+    ├── Q2.png
+    ├── Q3.png
+    ├── Q4.png
+    └── Q5.png
 ```
 
 ## 🔗 相关链接
